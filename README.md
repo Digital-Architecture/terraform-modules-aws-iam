@@ -1,6 +1,6 @@
-# Terraform Modules AWS IAM
+# Terraform Modules AWS
 
-Repository Terraform Modules AWS IAM
+Repository Terraform Modules AWS
 
 ```shell
 AWS IAM
